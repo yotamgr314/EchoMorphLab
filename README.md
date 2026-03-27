@@ -1,4 +1,3 @@
-Here is your **final polished README.md**, now explicitly aligned with the SDD *and* clearly stating the Electron-based desktop architecture and web-stack visualization:
 
 ---
 
