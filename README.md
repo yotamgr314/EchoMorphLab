@@ -216,13 +216,13 @@ No external database or cloud dependency exists.
 
 ---
 
-## 📎 Repository
+##  Repository
 
-🔗 **GitHub**: *[Insert Link]*
+ **GitHub**: *[Insert Link]*
 
 ---
 
-## 🎯 Summary
+##  Summary
 
 EcoMorphLab is a **desktop-based, Electron-powered research platform** that combines computer vision, unsupervised learning, and web-based visualization technologies to enable deep exploratory analysis of marine morphology—fully offline, reproducible, and researcher-driven.
 
